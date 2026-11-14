@@ -1,0 +1,8 @@
+{
+  "name": "نَسَق | NASQ",
+  "description": "بورتفوليو نَسَق لتصميم المنتجات والأزياء — مشاريع ملابس شتوية وتيشيرتات، دراسات حالة، خامات، وقرارات تصميمية مع معاينة 360°.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
